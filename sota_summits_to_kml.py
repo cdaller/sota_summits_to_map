@@ -9,45 +9,48 @@ import xml.etree.ElementTree as ET
 import argparse
 import urllib.request
 
+# OrganicMaps does not load the icons from the urls, it just uses the style name to color the placemarks.
+# But we provide some icons nevertheless, so that the KML can be used in other applications.
+# OrganicMaps only supports fixed styles, so we use a fixed set of colors/styles.
 STYLE_XML = '''<Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>https://omaps.app/placemarks/placemark-red.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-red.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-deeporange">
     <IconStyle>
       <Icon>
-        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-orange.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-darkyellow.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-olive.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-lime">
     <IconStyle>
       <Icon>
-        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-lightgreen.png</href>
       </Icon>
     </IconStyle>
   </Style>
     <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>https://omaps.app/placemarks/placemark-green.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-darkgreen.png</href>
       </Icon>
     </IconStyle>
   </Style>
