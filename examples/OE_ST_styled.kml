@@ -8,10 +8,10 @@
       </Icon>
     </IconStyle>
   </Style>
-<Style id="placemark-xxx">
+<Style id="placemark-lime">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-blue.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-lightgreen.png</href>
       </Icon>
     </IconStyle>
   </Style>
@@ -1203,42 +1203,42 @@
         <Point>
           <coordinates>15.7589,47.225,975</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-294">
         <name>OE/ST-294 - Kulm</name>
         <description>Kulm, 918m, 2pt</description>
         <Point>
           <coordinates>14.1247,47.5211,918</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-299">
         <name>OE/ST-299 - Fürstenstand</name>
         <description>Fürstenstand, 754m, 2pt</description>
         <Point>
           <coordinates>15.3856,47.0903,754</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-302">
         <name>OE/ST-302 - Demmerkogel</name>
         <description>Demmerkogel, 671m, 2pt</description>
         <Point>
           <coordinates>15.4297,46.7858,671</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-303">
         <name>OE/ST-303 - Buchkogel</name>
         <description>Buchkogel, 656m, 2pt</description>
         <Point>
           <coordinates>15.375,47.0381,656</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-308">
         <name>OE/ST-308 - Stradner Kogel</name>
         <description>Stradner Kogel, 609m, 2pt</description>
         <Point>
           <coordinates>15.9317,46.8456,609</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-309">
         <name>OE/ST-309 - Gleichenberger Kogel</name>
         <description>Gleichenberger Kogel, 598m, 1pt</description>
@@ -1518,42 +1518,42 @@
         <Point>
           <coordinates>15.3047,47.1981,931</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-378">
         <name>OE/ST-378 - Emberg</name>
         <description>Emberg, 917m, 2pt</description>
         <Point>
           <coordinates>15.2572,47.4364,917</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-379">
         <name>OE/ST-379 - Hochkogel</name>
         <description>Hochkogel, 794m, 2pt</description>
         <Point>
           <coordinates>15.1372,47.1036,794</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-380">
         <name>OE/ST-380 - Parmaseggkogel</name>
         <description>Parmaseggkogel, 785m, 2pt</description>
         <Point>
           <coordinates>15.3139,47.2247,785</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-381">
         <name>OE/ST-381 - Steinkogel</name>
         <description>Steinkogel, 742m, 2pt</description>
         <Point>
           <coordinates>15.3589,47.1047,742</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-382">
         <name>OE/ST-382 - Kreuzberg</name>
         <description>Kreuzberg, 633m, 2pt</description>
         <Point>
           <coordinates>15.4594,46.71,633</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-383">
         <name>OE/ST-383 - Deichselspitze</name>
         <description>Deichselspitze, 2684m, 10pt</description>
@@ -1840,7 +1840,7 @@
         <Point>
           <coordinates>15.4746,47.1276,702</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-425">
         <name>OE/ST-425 - Elendberg</name>
         <description>Elendberg, 2672m, 10pt</description>
@@ -2225,35 +2225,35 @@
         <Point>
           <coordinates>15.0158,47.379,987</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-480">
         <name>OE/ST-480 - Reiterer Kogel</name>
         <description>Reiterer Kogel, 953m, 2pt</description>
         <Point>
           <coordinates>14.9455,47.3957,953</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-481">
         <name>OE/ST-481 - Mittagkogel</name>
         <description>Mittagkogel, 938m, 2pt</description>
         <Point>
           <coordinates>14.9253,47.2879,938</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-483">
         <name>OE/ST-483 - Pfaffenkogel</name>
         <description>Pfaffenkogel, 734m, 2pt</description>
         <Point>
           <coordinates>15.31,47.1658,734</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-484">
         <name>OE/ST-484 - Eggenberg</name>
         <description>Eggenberg, 707m, 2pt</description>
         <Point>
           <coordinates>15.3383,47.1558,707</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-485">
         <name>OE/ST-485 - Gjoadeck</name>
         <description>Gjoadeck, 2525m, 10pt</description>
@@ -2946,49 +2946,49 @@
         <Point>
           <coordinates>14.9959,47.6659,978</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-585">
         <name>OE/ST-585 - Steinwand</name>
         <description>Steinwand, 950m, 2pt</description>
         <Point>
           <coordinates>14.7472,47.6651,950</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-586">
         <name>OE/ST-586 - Buchegg</name>
         <description>Buchegg, 942m, 2pt</description>
         <Point>
           <coordinates>14.7311,47.596,942</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-587">
         <name>OE/ST-587 - Schoberkogel</name>
         <description>Schoberkogel, 901m, 2pt</description>
         <Point>
           <coordinates>14.5994,47.6969,901</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-588">
         <name>OE/ST-588 - Kulm</name>
         <description>Kulm, 887m, 2pt</description>
         <Point>
           <coordinates>15.0177,47.4084,887</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-589">
         <name>OE/ST-589 - Lehenberg</name>
         <description>Lehenberg, 871m, 2pt</description>
         <Point>
           <coordinates>14.7183,47.6558,871</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-590">
         <name>OE/ST-590 - Wiesberg</name>
         <description>Wiesberg, 811m, 2pt</description>
         <Point>
           <coordinates>14.66,47.7232,811</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-591">
         <name>OE/ST-591 - Kleines Schareck</name>
         <description>Kleines Schareck, 2479m, 10pt</description>
@@ -3051,7 +3051,7 @@
         <Point>
           <coordinates>15.3826,47.21807,914</coordinates>
         </Point>
-      <styleUrl>#placemark-xxx</styleUrl></Placemark>
+      <styleUrl>#placemark-lime</styleUrl></Placemark>
       <Placemark id="OE/ST-600">
         <name>OE/ST-600 - Lammkogel</name>
         <description>Lammkogel, 1619m, 6pt</description>
