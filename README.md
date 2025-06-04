@@ -28,6 +28,10 @@ The details of one summit (OE/ST-248):
 
 An example of region `OE/ST` can be found in the [examples](./examples) folder. This might help to see if you map application is able to read and display the output of this script.
 
+The following screenshot shows the kml file viewed in the online kmz viewer [kmzview](https://kmzview.com):
+
+![kmzview.com](images/kmzview.png)
+
 ## Thanks
 
 Thanks to the developers of sotl.as for providing the data.

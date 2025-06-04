@@ -1,0 +1,3042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <atom:author><![CDATA[SOTLAS]]></atom:author>
+    <TimeStamp>
+      <when>2025-06-04T20:40:18.670Z</when>
+    </TimeStamp>
+    <name>SOTA Region <![CDATA[OE/ST - Steiermark]]></name>
+    <atom:link href="https://sotl.as/summits/OE/ST"/>
+      <Placemark id="OE/ST-001">
+        <name><![CDATA[OE/ST-001 - Hochgolling]]></name>
+        <description><![CDATA[Hochgolling, 2862m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7606,47.2664,2862</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-002">
+        <name><![CDATA[OE/ST-002 - Hochwildstelle]]></name>
+        <description><![CDATA[Hochwildstelle, 2747m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8306,47.3347,2747</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-003">
+        <name><![CDATA[OE/ST-003 - Roteck]]></name>
+        <description><![CDATA[Roteck, 2742m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8503,47.23,2742</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-004">
+        <name><![CDATA[OE/ST-004 - Preber]]></name>
+        <description><![CDATA[Preber, 2740m, 10pt]]></description>
+        <Point>
+          <coordinates>13.865,47.22,2740</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-005">
+        <name><![CDATA[OE/ST-005 - Waldhorn]]></name>
+        <description><![CDATA[Waldhorn, 2702m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8175,47.2958,2702</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-007">
+        <name><![CDATA[OE/ST-007 - Scheichenspitze]]></name>
+        <description><![CDATA[Scheichenspitze, 2667m, 10pt]]></description>
+        <Point>
+          <coordinates>13.6561,47.4508,2667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-008">
+        <name><![CDATA[OE/ST-008 - Greifenberg]]></name>
+        <description><![CDATA[Greifenberg, 2618m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7892,47.2892,2618</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-009">
+        <name><![CDATA[OE/ST-009 - Großer Knallstein]]></name>
+        <description><![CDATA[Großer Knallstein, 2599m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9761,47.3206,2599</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-010">
+        <name><![CDATA[OE/ST-010 - Rupprechtseck]]></name>
+        <description><![CDATA[Rupprechtseck, 2591m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0011,47.24,2591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-011">
+        <name><![CDATA[OE/ST-011 - Predigtstuhl]]></name>
+        <description><![CDATA[Predigtstuhl, 2543m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9108,47.2619,2543</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-012">
+        <name><![CDATA[OE/ST-012 - Süßleiteck]]></name>
+        <description><![CDATA[Süßleiteck, 2507m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9986,47.2678,2507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-014">
+        <name><![CDATA[OE/ST-014 - Rettlkirchspitze]]></name>
+        <description><![CDATA[Rettlkirchspitze, 2475m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1275,47.26,2475</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-015">
+        <name><![CDATA[OE/ST-015 - Greim]]></name>
+        <description><![CDATA[Greim, 2474m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1517,47.2475,2474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-017">
+        <name><![CDATA[OE/ST-017 - Eisenhut]]></name>
+        <description><![CDATA[Eisenhut, 2456m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0494,47.235,2456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-018">
+        <name><![CDATA[OE/ST-018 - Großer Bösenstein]]></name>
+        <description><![CDATA[Großer Bösenstein, 2448m, 10pt]]></description>
+        <Point>
+          <coordinates>14.4039,47.4436,2448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-019">
+        <name><![CDATA[OE/ST-019 - Eisenhut]]></name>
+        <description><![CDATA[Eisenhut, 2441m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9283,46.9522,2441</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-020">
+        <name><![CDATA[OE/ST-020 - Deneck]]></name>
+        <description><![CDATA[Deneck, 2433m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0506,47.2869,2433</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-021">
+        <name><![CDATA[OE/ST-021 - Bauleiteck]]></name>
+        <description><![CDATA[Bauleiteck, 2424m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9692,47.2711,2424</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-022">
+        <name><![CDATA[OE/ST-022 - Schoberspitze]]></name>
+        <description><![CDATA[Schoberspitze, 2423m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1611,47.2894,2423</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-023">
+        <name><![CDATA[OE/ST-023 - Geierhaupt]]></name>
+        <description><![CDATA[Geierhaupt, 2417m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6361,47.3747,2417</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-024">
+        <name><![CDATA[OE/ST-024 - Hochreichhart]]></name>
+        <description><![CDATA[Hochreichhart, 2416m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6817,47.3633,2416</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-025">
+        <name><![CDATA[OE/ST-025 - Kilnprein]]></name>
+        <description><![CDATA[Kilnprein, 2408m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8431,46.9858,2408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-026">
+        <name><![CDATA[OE/ST-026 - Seckauer Zinken]]></name>
+        <description><![CDATA[Seckauer Zinken, 2397m, 10pt]]></description>
+        <Point>
+          <coordinates>14.7361,47.3392,2397</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-027">
+        <name><![CDATA[OE/ST-027 - Zirbitzkogel]]></name>
+        <description><![CDATA[Zirbitzkogel, 2396m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5672,47.0633,2396</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-028">
+        <name><![CDATA[OE/ST-028 - Gamskogel]]></name>
+        <description><![CDATA[Gamskogel, 2388m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5489,47.3658,2388</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-029">
+        <name><![CDATA[OE/ST-029 - Hochstubofen]]></name>
+        <description><![CDATA[Hochstubofen, 2385m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1122,47.2678,2385</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-031">
+        <name><![CDATA[OE/ST-031 - Hochtor]]></name>
+        <description><![CDATA[Hochtor, 2369m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6328,47.5619,2369</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-032">
+        <name><![CDATA[OE/ST-032 - Hohenwart]]></name>
+        <description><![CDATA[Hohenwart, 2363m, 10pt]]></description>
+        <Point>
+          <coordinates>14.2361,47.3294,2363</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-033">
+        <name><![CDATA[OE/ST-033 - Grimming]]></name>
+        <description><![CDATA[Grimming, 2351m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0172,47.5206,2351</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-034">
+        <name><![CDATA[OE/ST-034 - Großer Grießstein]]></name>
+        <description><![CDATA[Großer Grießstein, 2337m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5394,47.3908,2337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-035">
+        <name><![CDATA[OE/ST-035 - Kegeleck]]></name>
+        <description><![CDATA[Kegeleck, 2323m, 10pt]]></description>
+        <Point>
+          <coordinates>14.2128,47.3011,2323</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-038">
+        <name><![CDATA[OE/ST-038 - Bruderkogel]]></name>
+        <description><![CDATA[Bruderkogel, 2299m, 10pt]]></description>
+        <Point>
+          <coordinates>14.4219,47.3878,2299</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-040">
+        <name><![CDATA[OE/ST-040 - Hochschwab]]></name>
+        <description><![CDATA[Hochschwab, 2277m, 10pt]]></description>
+        <Point>
+          <coordinates>15.1428,47.6183,2277</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-043">
+        <name><![CDATA[OE/ST-043 - Schießeck]]></name>
+        <description><![CDATA[Schießeck, 2275m, 10pt]]></description>
+        <Point>
+          <coordinates>14.3231,47.2747,2275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-044">
+        <name><![CDATA[OE/ST-044 - Lärchkogel]]></name>
+        <description><![CDATA[Lärchkogel, 2258m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5214,47.3536,2258</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-046">
+        <name><![CDATA[OE/ST-046 - Spateck]]></name>
+        <description><![CDATA[Spateck, 2256m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8978,47.3497,2256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-047">
+        <name><![CDATA[OE/ST-047 - Sparafeld]]></name>
+        <description><![CDATA[Sparafeld, 2247m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5303,47.5497,2247</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-048">
+        <name><![CDATA[OE/ST-048 - Steineck]]></name>
+        <description><![CDATA[Steineck, 2260m, 10pt]]></description>
+        <Point>
+          <coordinates>14.295,47.2908,2260</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-050">
+        <name><![CDATA[OE/ST-050 - Zinkenkogel]]></name>
+        <description><![CDATA[Zinkenkogel, 2233m, 10pt]]></description>
+        <Point>
+          <coordinates>14.3761,47.42,2233</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-051">
+        <name><![CDATA[OE/ST-051 - Geierkogel]]></name>
+        <description><![CDATA[Geierkogel, 2231m, 10pt]]></description>
+        <Point>
+          <coordinates>14.4997,47.4,2231</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-052">
+        <name><![CDATA[OE/ST-052 - Sonntagskogel]]></name>
+        <description><![CDATA[Sonntagskogel, 2229m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5103,47.3906,2229</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-053">
+        <name><![CDATA[OE/ST-053 - Gumpeneck]]></name>
+        <description><![CDATA[Gumpeneck, 2226m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0153,47.3972,2226</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-054">
+        <name><![CDATA[OE/ST-054 - Kerschkern]]></name>
+        <description><![CDATA[Kerschkern, 2225m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6139,47.3878,2225</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-055">
+        <name><![CDATA[OE/ST-055 - Großer Buchstein]]></name>
+        <description><![CDATA[Großer Buchstein, 2224m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5969,47.6106,2224</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-057">
+        <name><![CDATA[OE/ST-057 - Hochrettelstein]]></name>
+        <description><![CDATA[Hochrettelstein, 2220m, 10pt]]></description>
+        <Point>
+          <coordinates>14.2325,47.4247,2220</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-059">
+        <name><![CDATA[OE/ST-059 - Gößeck]]></name>
+        <description><![CDATA[Gößeck, 2214m, 10pt]]></description>
+        <Point>
+          <coordinates>14.9,47.4486,2214</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-063">
+        <name><![CDATA[OE/ST-063 - Gamskogel]]></name>
+        <description><![CDATA[Gamskogel, 2210m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9499,47.0072,2210</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-065">
+        <name><![CDATA[OE/ST-065 - Hochschwung]]></name>
+        <description><![CDATA[Hochschwung, 2196m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3389,47.4075,2196</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-066">
+        <name><![CDATA[OE/ST-066 - Hochzinödl]]></name>
+        <description><![CDATA[Hochzinödl, 2191m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6661,47.5656,2191</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-067">
+        <name><![CDATA[OE/ST-067 - Ameringkogel]]></name>
+        <description><![CDATA[Ameringkogel, 2187m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8083,47.0711,2187</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-068">
+        <name><![CDATA[OE/ST-068 - Hochstein]]></name>
+        <description><![CDATA[Hochstein, 2183m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1875,47.4308,2183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-070">
+        <name><![CDATA[OE/ST-070 - Hexenturm]]></name>
+        <description><![CDATA[Hexenturm, 2172m, 8pt]]></description>
+        <Point>
+          <coordinates>14.4811,47.6458,2172</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-072">
+        <name><![CDATA[OE/ST-072 - Eisenerzer Reichenstein]]></name>
+        <description><![CDATA[Eisenerzer Reichenstein, 2165m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9344,47.5028,2165</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-073">
+        <name><![CDATA[OE/ST-073 - Seitnerzinken]]></name>
+        <description><![CDATA[Seitnerzinken, 2164m, 8pt]]></description>
+        <Point>
+          <coordinates>14.2997,47.3925,2164</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-074">
+        <name><![CDATA[OE/ST-074 - Schreinl]]></name>
+        <description><![CDATA[Schreinl, 2154m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1681,47.3808,2154</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-077">
+        <name><![CDATA[OE/ST-077 - Breiteckkoppe]]></name>
+        <description><![CDATA[Breiteckkoppe, 2144m, 8pt]]></description>
+        <Point>
+          <coordinates>14.2367,47.3711,2144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-079">
+        <name><![CDATA[OE/ST-079 - Gstoder]]></name>
+        <description><![CDATA[Gstoder, 2140m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9931,47.1422,2140</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-080">
+        <name><![CDATA[OE/ST-080 - Kammspitz]]></name>
+        <description><![CDATA[Kammspitz, 2139m, 8pt]]></description>
+        <Point>
+          <coordinates>13.8847,47.4761,2139</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-081">
+        <name><![CDATA[OE/ST-081 - Schober]]></name>
+        <description><![CDATA[Schober, 2133m, 8pt]]></description>
+        <Point>
+          <coordinates>13.6053,47.3458,2133</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-082">
+        <name><![CDATA[OE/ST-082 - Elm]]></name>
+        <description><![CDATA[Elm, 2128m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9628,47.6736,2128</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-083">
+        <name><![CDATA[OE/ST-083 - Schoberspitze]]></name>
+        <description><![CDATA[Schoberspitze, 2126m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1673,47.4035,2126</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-084">
+        <name><![CDATA[OE/ST-084 - Zeiritzkampel]]></name>
+        <description><![CDATA[Zeiritzkampel, 2125m, 8pt]]></description>
+        <Point>
+          <coordinates>14.7269,47.4914,2125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-085">
+        <name><![CDATA[OE/ST-085 - Ebenstein]]></name>
+        <description><![CDATA[Ebenstein, 2123m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0281,47.6061,2123</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-088">
+        <name><![CDATA[OE/ST-088 - Hochkogel]]></name>
+        <description><![CDATA[Hochkogel, 2105m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8156,47.5389,2105</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-089">
+        <name><![CDATA[OE/ST-089 - Karlhochkogel]]></name>
+        <description><![CDATA[Karlhochkogel, 2096m, 8pt]]></description>
+        <Point>
+          <coordinates>15.1583,47.6072,2096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-090">
+        <name><![CDATA[OE/ST-090 - Himmeleck]]></name>
+        <description><![CDATA[Himmeleck, 2096m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6031,47.4269,2096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-091">
+        <name><![CDATA[OE/ST-091 - Kaiserschild]]></name>
+        <description><![CDATA[Kaiserschild, 2084m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8281,47.5386,2084</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-092">
+        <name><![CDATA[OE/ST-092 - Hochturm]]></name>
+        <description><![CDATA[Hochturm, 2081m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0069,47.5339,2081</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-093">
+        <name><![CDATA[OE/ST-093 - Feistererhorn]]></name>
+        <description><![CDATA[Feistererhorn, 2081m, 8pt]]></description>
+        <Point>
+          <coordinates>14.7,47.3847,2081</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-096">
+        <name><![CDATA[OE/ST-096 - Großes Bärneck]]></name>
+        <description><![CDATA[Großes Bärneck, 2071m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0808,47.3528,2071</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-100">
+        <name><![CDATA[OE/ST-100 - Hintergullingspitz]]></name>
+        <description><![CDATA[Hintergullingspitz, 2054m, 8pt]]></description>
+        <Point>
+          <coordinates>14.2131,47.3867,2054</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-103">
+        <name><![CDATA[OE/ST-103 - Stoderzinken]]></name>
+        <description><![CDATA[Stoderzinken, 2048m, 8pt]]></description>
+        <Point>
+          <coordinates>13.8286,47.4592,2048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-105">
+        <name><![CDATA[OE/ST-105 - Stein am Mandl]]></name>
+        <description><![CDATA[Stein am Mandl, 2043m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3653,47.4928,2043</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-106">
+        <name><![CDATA[OE/ST-106 - Leobner]]></name>
+        <description><![CDATA[Leobner, 2036m, 8pt]]></description>
+        <Point>
+          <coordinates>14.65,47.4944,2036</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-107">
+        <name><![CDATA[OE/ST-107 - Tamischbachturm]]></name>
+        <description><![CDATA[Tamischbachturm, 2035m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6991,47.6149,2035</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-108">
+        <name><![CDATA[OE/ST-108 - Hohe Lins]]></name>
+        <description><![CDATA[Hohe Lins, 2028m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9036,47.4931,2028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-109">
+        <name><![CDATA[OE/ST-109 - Lahnerleitenspitze]]></name>
+        <description><![CDATA[Lahnerleitenspitze, 2027m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6786,47.4919,2027</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-112">
+        <name><![CDATA[OE/ST-112 - Heukuppe]]></name>
+        <description><![CDATA[Heukuppe, 2007m, 8pt]]></description>
+        <Point>
+          <coordinates>15.6892,47.6892,2007</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-114">
+        <name><![CDATA[OE/ST-114 - Brandstein]]></name>
+        <description><![CDATA[Brandstein, 2003m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9831,47.6008,2003</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-116">
+        <name><![CDATA[OE/ST-116 - Frauenalpe]]></name>
+        <description><![CDATA[Frauenalpe, 1997m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1369,47.0647,1997</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-118">
+        <name><![CDATA[OE/ST-118 - Bosruck]]></name>
+        <description><![CDATA[Bosruck, 1992m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3461,47.623,1992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-119">
+        <name><![CDATA[OE/ST-119 - Kleiner Buchstein]]></name>
+        <description><![CDATA[Kleiner Buchstein, 1990m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6278,47.6286,1990</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-121">
+        <name><![CDATA[OE/ST-121 - Hohe Veitsch]]></name>
+        <description><![CDATA[Hohe Veitsch, 1981m, 8pt]]></description>
+        <Point>
+          <coordinates>15.4058,47.6486,1981</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-122">
+        <name><![CDATA[OE/ST-122 - Traweng]]></name>
+        <description><![CDATA[Traweng, 1981m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0144,47.6039,1981</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-123">
+        <name><![CDATA[OE/ST-123 - Blaseneck]]></name>
+        <description><![CDATA[Blaseneck, 1969m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6189,47.4994,1969</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-125">
+        <name><![CDATA[OE/ST-125 - Lawinenstein]]></name>
+        <description><![CDATA[Lawinenstein, 1965m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9544,47.5978,1965</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-127">
+        <name><![CDATA[OE/ST-127 - Dreimarkstein]]></name>
+        <description><![CDATA[Dreimarkstein, 1948m, 8pt]]></description>
+        <Point>
+          <coordinates>15.7158,47.7086,1948</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-129">
+        <name><![CDATA[OE/ST-129 - Rappoldkogel]]></name>
+        <description><![CDATA[Rappoldkogel, 1928m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8836,47.0839,1928</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-131">
+        <name><![CDATA[OE/ST-131 - Hochstadl]]></name>
+        <description><![CDATA[Hochstadl, 1919m, 8pt]]></description>
+        <Point>
+          <coordinates>15.075,47.6856,1919</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-134">
+        <name><![CDATA[OE/ST-134 - Moschkogel]]></name>
+        <description><![CDATA[Moschkogel, 1916m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9912,46.8227,1916</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-135">
+        <name><![CDATA[OE/ST-135 - Polster]]></name>
+        <description><![CDATA[Polster, 1910m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9611,47.5325,1910</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-137">
+        <name><![CDATA[OE/ST-137 - Windberg]]></name>
+        <description><![CDATA[Windberg, 1903m, 8pt]]></description>
+        <Point>
+          <coordinates>15.5947,47.7033,1903</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-140">
+        <name><![CDATA[OE/ST-140 - Bräuningzinken]]></name>
+        <description><![CDATA[Bräuningzinken, 1899m, 8pt]]></description>
+        <Point>
+          <coordinates>13.7925,47.6753,1899</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-141">
+        <name><![CDATA[OE/ST-141 - Großer Schober]]></name>
+        <description><![CDATA[Großer Schober, 1895m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6375,47.4419,1895</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-143">
+        <name><![CDATA[OE/ST-143 - Roßkogel]]></name>
+        <description><![CDATA[Roßkogel, 1890m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0645,47.5983,1890</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-144">
+        <name><![CDATA[OE/ST-144 - Vöttleck]]></name>
+        <description><![CDATA[Vöttleck, 1888m, 8pt]]></description>
+        <Point>
+          <coordinates>14.5542,47.4539,1888</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-145">
+        <name><![CDATA[OE/ST-145 - Pfaffenstein]]></name>
+        <description><![CDATA[Pfaffenstein, 1871m, 8pt]]></description>
+        <Point>
+          <coordinates>14.915,47.5614,1871</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-149">
+        <name><![CDATA[OE/ST-149 - Bremstein]]></name>
+        <description><![CDATA[Bremstein, 1868m, 8pt]]></description>
+        <Point>
+          <coordinates>14.7792,47.3725,1868</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-152">
+        <name><![CDATA[OE/ST-152 - Zinken]]></name>
+        <description><![CDATA[Zinken, 1854m, 8pt]]></description>
+        <Point>
+          <coordinates>13.7664,47.5822,1854</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-157">
+        <name><![CDATA[OE/ST-157 - Meßnerin]]></name>
+        <description><![CDATA[Meßnerin, 1835m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0858,47.56,1835</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-158">
+        <name><![CDATA[OE/ST-158 - Eiblkogel]]></name>
+        <description><![CDATA[Eiblkogel, 1831m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0981,47.2617,1831</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-159">
+        <name><![CDATA[OE/ST-159 - Hochtausing]]></name>
+        <description><![CDATA[Hochtausing, 1823m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1567,47.5844,1823</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-160">
+        <name><![CDATA[OE/ST-160 - Tieflimauer]]></name>
+        <description><![CDATA[Tieflimauer, 1820m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6464,47.6261,1820</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-161">
+        <name><![CDATA[OE/ST-161 - Stolzalpe]]></name>
+        <description><![CDATA[Stolzalpe, 1817m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1903,47.1517,1817</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-162">
+        <name><![CDATA[OE/ST-162 - Hechlstein]]></name>
+        <description><![CDATA[Hechlstein, 1814m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0667,47.5733,1814</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-166">
+        <name><![CDATA[OE/ST-166 - Kramerkogel]]></name>
+        <description><![CDATA[Kramerkogel, 1802m, 8pt]]></description>
+        <Point>
+          <coordinates>14.085,47.1297,1802</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-167">
+        <name><![CDATA[OE/ST-167 - Pleschaitz]]></name>
+        <description><![CDATA[Pleschaitz, 1797m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3158,47.1619,1797</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-171">
+        <name><![CDATA[OE/ST-171 - Stuhleck]]></name>
+        <description><![CDATA[Stuhleck, 1782m, 6pt]]></description>
+        <Point>
+          <coordinates>15.79,47.5742,1782</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-173">
+        <name><![CDATA[OE/ST-173 - Großes Maiereck]]></name>
+        <description><![CDATA[Großes Maiereck, 1764m, 6pt]]></description>
+        <Point>
+          <coordinates>14.5528,47.6719,1764</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-174">
+        <name><![CDATA[OE/ST-174 - Türkenkogel]]></name>
+        <description><![CDATA[Türkenkogel, 1756m, 6pt]]></description>
+        <Point>
+          <coordinates>13.9036,47.6089,1756</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-177">
+        <name><![CDATA[OE/ST-177 - Weißeck]]></name>
+        <description><![CDATA[Weißeck, 1743m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4733,47.1706,1743</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-178">
+        <name><![CDATA[OE/ST-178 - Dürrenschöberl]]></name>
+        <description><![CDATA[Dürrenschöberl, 1737m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3656,47.5528,1737</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-181">
+        <name><![CDATA[OE/ST-181 - Blosen]]></name>
+        <description><![CDATA[Blosen, 1724m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2714,47.5006,1724</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-183">
+        <name><![CDATA[OE/ST-183 - Hochlantsch]]></name>
+        <description><![CDATA[Hochlantsch, 1720m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4244,47.3628,1720</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-184">
+        <name><![CDATA[OE/ST-184 - Rauschkogel]]></name>
+        <description><![CDATA[Rauschkogel, 1720m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3731,47.6122,1720</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-185">
+        <name><![CDATA[OE/ST-185 - Pleschberg]]></name>
+        <description><![CDATA[Pleschberg, 1720m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4025,47.6108,1720</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-186">
+        <name><![CDATA[OE/ST-186 - Sandling]]></name>
+        <description><![CDATA[Sandling, 1717m, 6pt]]></description>
+        <Point>
+          <coordinates>13.7139,47.6564,1717</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-187">
+        <name><![CDATA[OE/ST-187 - Tonion]]></name>
+        <description><![CDATA[Tonion, 1699m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3792,47.7131,1699</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-188">
+        <name><![CDATA[OE/ST-188 - Oisching]]></name>
+        <description><![CDATA[Oisching, 1699m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2678,47.5958,1699</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-190">
+        <name><![CDATA[OE/ST-190 - Kampl]]></name>
+        <description><![CDATA[Kampl, 1685m, 6pt]]></description>
+        <Point>
+          <coordinates>13.8769,47.5889,1685</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-191">
+        <name><![CDATA[OE/ST-191 - Hochanger]]></name>
+        <description><![CDATA[Hochanger, 1682m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3169,47.6058,1682</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-192">
+        <name><![CDATA[OE/ST-192 - Hohe Trett]]></name>
+        <description><![CDATA[Hohe Trett, 1681m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2044,47.5192,1681</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-194">
+        <name><![CDATA[OE/ST-194 - Steinplan]]></name>
+        <description><![CDATA[Steinplan, 1670m, 6pt]]></description>
+        <Point>
+          <coordinates>14.905,47.1633,1670</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-195">
+        <name><![CDATA[OE/ST-195 - Schießling]]></name>
+        <description><![CDATA[Schießling, 1667m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2819,47.5786,1667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-197">
+        <name><![CDATA[OE/ST-197 - Roßeck]]></name>
+        <description><![CDATA[Roßeck, 1664m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2053,47.3586,1664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-198">
+        <name><![CDATA[OE/ST-198 - Thalerkogel]]></name>
+        <description><![CDATA[Thalerkogel, 1655m, 6pt]]></description>
+        <Point>
+          <coordinates>15.0539,47.4769,1655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-200">
+        <name><![CDATA[OE/ST-200 - Hohes Waxenegg]]></name>
+        <description><![CDATA[Hohes Waxenegg, 1647m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5539,47.7353,1647</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-202">
+        <name><![CDATA[OE/ST-202 - Wetterkogel]]></name>
+        <description><![CDATA[Wetterkogel, 1643m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2081,47.3344,1643</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-205">
+        <name><![CDATA[OE/ST-205 - Rennfeld]]></name>
+        <description><![CDATA[Rennfeld, 1629m, 6pt]]></description>
+        <Point>
+          <coordinates>15.36,47.4044,1629</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-207">
+        <name><![CDATA[OE/ST-207 - Zinken]]></name>
+        <description><![CDATA[Zinken, 1619m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2197,47.68,1619</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-211">
+        <name><![CDATA[OE/ST-211 - Turntaler Kogel]]></name>
+        <description><![CDATA[Turntaler Kogel, 1610m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3692,47.6306,1610</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-214">
+        <name><![CDATA[OE/ST-214 - Lachalpe]]></name>
+        <description><![CDATA[Lachalpe, 1590m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5133,47.6892,1590</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-215">
+        <name><![CDATA[OE/ST-215 - Hölzlberg]]></name>
+        <description><![CDATA[Hölzlberg, 1589m, 6pt]]></description>
+        <Point>
+          <coordinates>14.6714,47.25,1589</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-216">
+        <name><![CDATA[OE/ST-216 - Floning]]></name>
+        <description><![CDATA[Floning, 1583m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2025,47.4878,1583</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-217">
+        <name><![CDATA[OE/ST-217 - Hochschlag]]></name>
+        <description><![CDATA[Hochschlag, 1580m, 6pt]]></description>
+        <Point>
+          <coordinates>15.505,47.4031,1580</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-219">
+        <name><![CDATA[OE/ST-219 - Großer Königskogel]]></name>
+        <description><![CDATA[Großer Königskogel, 1574m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4447,47.7075,1574</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-222">
+        <name><![CDATA[OE/ST-222 - Großer Pfaff]]></name>
+        <description><![CDATA[Großer Pfaff, 1555m, 6pt]]></description>
+        <Point>
+          <coordinates>15.8261,47.5622,1555</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-223">
+        <name><![CDATA[OE/ST-223 - Osser]]></name>
+        <description><![CDATA[Osser, 1548m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5011,47.3442,1548</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-225">
+        <name><![CDATA[OE/ST-225 - Hohe Student]]></name>
+        <description><![CDATA[Hohe Student, 1539m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3944,47.7372,1539</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-227">
+        <name><![CDATA[OE/ST-227 - Plankogel]]></name>
+        <description><![CDATA[Plankogel, 1531m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5583,47.355,1531</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-228">
+        <name><![CDATA[OE/ST-228 - Wetterin]]></name>
+        <description><![CDATA[Wetterin, 1530m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3581,47.6847,1530</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-229">
+        <name><![CDATA[OE/ST-229 - Wildalpe]]></name>
+        <description><![CDATA[Wildalpe, 1523m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4558,47.7536,1523</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-230">
+        <name><![CDATA[OE/ST-230 - Rote Wand]]></name>
+        <description><![CDATA[Rote Wand, 1505m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4067,47.3333,1505</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-231">
+        <name><![CDATA[OE/ST-231 - Teufelstein]]></name>
+        <description><![CDATA[Teufelstein, 1498m, 6pt]]></description>
+        <Point>
+          <coordinates>15.6214,47.465,1498</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-233">
+        <name><![CDATA[OE/ST-233 - Frießenkogel]]></name>
+        <description><![CDATA[Frießenkogel, 1491m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4767,47.3619,1491</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-236">
+        <name><![CDATA[OE/ST-236 - Zöberer Höhe]]></name>
+        <description><![CDATA[Zöberer Höhe, 1486m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2817,47.5067,1486</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-239">
+        <name><![CDATA[OE/ST-239 - Troiseck]]></name>
+        <description><![CDATA[Troiseck, 1466m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4136,47.5569,1466</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-242">
+        <name><![CDATA[OE/ST-242 - Reinischkogel]]></name>
+        <description><![CDATA[Reinischkogel, 1463m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1153,46.9275,1463</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-243">
+        <name><![CDATA[OE/ST-243 - Kreuzeck]]></name>
+        <description><![CDATA[Kreuzeck, 1459m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4133,47.1211,1459</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-244">
+        <name><![CDATA[OE/ST-244 - Schweineck]]></name>
+        <description><![CDATA[Schweineck, 1457m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4447,47.3478,1457</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-246">
+        <name><![CDATA[OE/ST-246 - Schwarzkogel]]></name>
+        <description><![CDATA[Schwarzkogel, 1448m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4125,47.4281,1448</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-248">
+        <name><![CDATA[OE/ST-248 - Schöckl]]></name>
+        <description><![CDATA[Schöckl, 1442m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4611,47.1983,1442</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-263">
+        <name><![CDATA[OE/ST-263 - Rabenwaldkogel]]></name>
+        <description><![CDATA[Rabenwaldkogel, 1280m, 4pt]]></description>
+        <Point>
+          <coordinates>15.7367,47.3019,1280</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-265">
+        <name><![CDATA[OE/ST-265 - Bürgeralpe]]></name>
+        <description><![CDATA[Bürgeralpe, 1270m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3292,47.7878,1270</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-266">
+        <name><![CDATA[OE/ST-266 - Röthelstein]]></name>
+        <description><![CDATA[Röthelstein, 1263m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3864,47.3264,1263</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-267">
+        <name><![CDATA[OE/ST-267 - Masenberg]]></name>
+        <description><![CDATA[Masenberg, 1261m, 4pt]]></description>
+        <Point>
+          <coordinates>15.8753,47.3492,1261</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-268">
+        <name><![CDATA[OE/ST-268 - Wildwiesen]]></name>
+        <description><![CDATA[Wildwiesen, 1254m, 4pt]]></description>
+        <Point>
+          <coordinates>15.775,47.3944,1254</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-273">
+        <name><![CDATA[OE/ST-273 - Königskogel]]></name>
+        <description><![CDATA[Königskogel, 1246m, 4pt]]></description>
+        <Point>
+          <coordinates>15.6358,47.3417,1246</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-275">
+        <name><![CDATA[OE/ST-275 - Tressenstein]]></name>
+        <description><![CDATA[Tressenstein, 1201m, 4pt]]></description>
+        <Point>
+          <coordinates>13.7892,47.6267,1201</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-277">
+        <name><![CDATA[OE/ST-277 - Reithkogel]]></name>
+        <description><![CDATA[Reithkogel, 1157m, 4pt]]></description>
+        <Point>
+          <coordinates>15.6694,47.4244,1157</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-285">
+        <name><![CDATA[OE/ST-285 - Pleschkogel]]></name>
+        <description><![CDATA[Pleschkogel, 1061m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2322,47.1444,1061</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-286">
+        <name><![CDATA[OE/ST-286 - Klementkogel]]></name>
+        <description><![CDATA[Klementkogel, 1052m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2436,46.6414,1052</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-287">
+        <name><![CDATA[OE/ST-287 - Madereck]]></name>
+        <description><![CDATA[Madereck, 1050m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2222,47.4194,1050</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-290">
+        <name><![CDATA[OE/ST-290 - Hohe Rannach]]></name>
+        <description><![CDATA[Hohe Rannach, 1018m, 4pt]]></description>
+        <Point>
+          <coordinates>15.4006,47.1731,1018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-291">
+        <name><![CDATA[OE/ST-291 - Kulm]]></name>
+        <description><![CDATA[Kulm, 975m, 2pt]]></description>
+        <Point>
+          <coordinates>15.7589,47.225,975</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-294">
+        <name><![CDATA[OE/ST-294 - Kulm]]></name>
+        <description><![CDATA[Kulm, 918m, 2pt]]></description>
+        <Point>
+          <coordinates>14.1247,47.5211,918</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-299">
+        <name><![CDATA[OE/ST-299 - Fürstenstand]]></name>
+        <description><![CDATA[Fürstenstand, 754m, 2pt]]></description>
+        <Point>
+          <coordinates>15.3856,47.0903,754</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-302">
+        <name><![CDATA[OE/ST-302 - Demmerkogel]]></name>
+        <description><![CDATA[Demmerkogel, 671m, 2pt]]></description>
+        <Point>
+          <coordinates>15.4297,46.7858,671</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-303">
+        <name><![CDATA[OE/ST-303 - Buchkogel]]></name>
+        <description><![CDATA[Buchkogel, 656m, 2pt]]></description>
+        <Point>
+          <coordinates>15.375,47.0381,656</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-308">
+        <name><![CDATA[OE/ST-308 - Stradner Kogel]]></name>
+        <description><![CDATA[Stradner Kogel, 609m, 2pt]]></description>
+        <Point>
+          <coordinates>15.9317,46.8456,609</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-309">
+        <name><![CDATA[OE/ST-309 - Gleichenberger Kogel]]></name>
+        <description><![CDATA[Gleichenberger Kogel, 598m, 1pt]]></description>
+        <Point>
+          <coordinates>15.9083,46.8919,598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-311">
+        <name><![CDATA[OE/ST-311 - Buchkogel]]></name>
+        <description><![CDATA[Buchkogel, 550m, 1pt]]></description>
+        <Point>
+          <coordinates>15.5075,46.8714,550</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-320">
+        <name><![CDATA[OE/ST-320 - Königsberg]]></name>
+        <description><![CDATA[Königsberg, 462m, 1pt]]></description>
+        <Point>
+          <coordinates>15.9583,46.7856,462</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-334">
+        <name><![CDATA[OE/ST-334 - Höchstein]]></name>
+        <description><![CDATA[Höchstein, 2543m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7911,47.3467,2543</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-337">
+        <name><![CDATA[OE/ST-337 - Hochhaide]]></name>
+        <description><![CDATA[Hochhaide, 2363m, 10pt]]></description>
+        <Point>
+          <coordinates>14.3992,47.4697,2363</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-338">
+        <name><![CDATA[OE/ST-338 - Maierangerkogel]]></name>
+        <description><![CDATA[Maierangerkogel, 2356m, 10pt]]></description>
+        <Point>
+          <coordinates>14.7139,47.3478,2356</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-339">
+        <name><![CDATA[OE/ST-339 - Sinabell]]></name>
+        <description><![CDATA[Sinabell, 2349m, 10pt]]></description>
+        <Point>
+          <coordinates>13.6909,47.4511,2349</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-340">
+        <name><![CDATA[OE/ST-340 - Schiedeck]]></name>
+        <description><![CDATA[Schiedeck, 2339m, 10pt]]></description>
+        <Point>
+          <coordinates>13.6503,47.3117,2339</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-342">
+        <name><![CDATA[OE/ST-342 - Steinkarzinken]]></name>
+        <description><![CDATA[Steinkarzinken, 2281m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7058,47.3367,2281</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-343">
+        <name><![CDATA[OE/ST-343 - Gsuchmauer]]></name>
+        <description><![CDATA[Gsuchmauer, 2116m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6672,47.5486,2116</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-344">
+        <name><![CDATA[OE/ST-344 - Salzofen]]></name>
+        <description><![CDATA[Salzofen, 2070m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9383,47.6819,2070</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-345">
+        <name><![CDATA[OE/ST-345 - Schüttkogel]]></name>
+        <description><![CDATA[Schüttkogel, 2049m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3197,47.4619,2049</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-346">
+        <name><![CDATA[OE/ST-346 - Griesmauerkogel]]></name>
+        <description><![CDATA[Griesmauerkogel, 2034m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9833,47.5511,2034</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-347">
+        <name><![CDATA[OE/ST-347 - Riegerin]]></name>
+        <description><![CDATA[Riegerin, 1939m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0672,47.645,1939</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-348">
+        <name><![CDATA[OE/ST-348 - Handalm]]></name>
+        <description><![CDATA[Handalm, 1853m, 8pt]]></description>
+        <Point>
+          <coordinates>15.02,46.8467,1853</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-349">
+        <name><![CDATA[OE/ST-349 - Roßbachkogel]]></name>
+        <description><![CDATA[Roßbachkogel, 1848m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0436,47.2047,1848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-350">
+        <name><![CDATA[OE/ST-350 - Achnerkuchel]]></name>
+        <description><![CDATA[Achnerkuchel, 1824m, 8pt]]></description>
+        <Point>
+          <coordinates>14.7592,47.4819,1824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-351">
+        <name><![CDATA[OE/ST-351 - Kuhalm]]></name>
+        <description><![CDATA[Kuhalm, 1784m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2503,47.0353,1784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-352">
+        <name><![CDATA[OE/ST-352 - Bocksruck]]></name>
+        <description><![CDATA[Bocksruck, 1763m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3931,47.2228,1763</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-353">
+        <name><![CDATA[OE/ST-353 - Terenbachalm]]></name>
+        <description><![CDATA[Terenbachalm, 1734m, 6pt]]></description>
+        <Point>
+          <coordinates>14.9986,47.1911,1734</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-354">
+        <name><![CDATA[OE/ST-354 - Ofnerkogel]]></name>
+        <description><![CDATA[Ofnerkogel, 1666m, 6pt]]></description>
+        <Point>
+          <coordinates>14.93,47.1219,1666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-355">
+        <name><![CDATA[OE/ST-355 - Rittisberg]]></name>
+        <description><![CDATA[Rittisberg, 1565m, 6pt]]></description>
+        <Point>
+          <coordinates>13.5928,47.4186,1565</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-356">
+        <name><![CDATA[OE/ST-356 - Schwarzkogel]]></name>
+        <description><![CDATA[Schwarzkogel, 1550m, 6pt]]></description>
+        <Point>
+          <coordinates>15.0666,46.9076,1550</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-357">
+        <name><![CDATA[OE/ST-357 - Freiberg]]></name>
+        <description><![CDATA[Freiberg, 1488m, 6pt]]></description>
+        <Point>
+          <coordinates>14.0769,47.1722,1488</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-359">
+        <name><![CDATA[OE/ST-359 - Eisnerkogel]]></name>
+        <description><![CDATA[Eisnerkogel, 1440m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4336,47.6033,1440</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-360">
+        <name><![CDATA[OE/ST-360 - Sauwand]]></name>
+        <description><![CDATA[Sauwand, 1420m, 6pt]]></description>
+        <Point>
+          <coordinates>15.3275,47.7453,1420</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-361">
+        <name><![CDATA[OE/ST-361 - Hocheck]]></name>
+        <description><![CDATA[Hocheck, 1418m, 6pt]]></description>
+        <Point>
+          <coordinates>15.545,47.6328,1418</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-363">
+        <name><![CDATA[OE/ST-363 - Patschaberg]]></name>
+        <description><![CDATA[Patschaberg, 1271m, 4pt]]></description>
+        <Point>
+          <coordinates>15.6006,47.2806,1271</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-364">
+        <name><![CDATA[OE/ST-364 - Hochtrötsch]]></name>
+        <description><![CDATA[Hochtrötsch, 1239m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3697,47.2603,1239</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-365">
+        <name><![CDATA[OE/ST-365 - Schiffall]]></name>
+        <description><![CDATA[Schiffall, 1221m, 4pt]]></description>
+        <Point>
+          <coordinates>15.34,47.3119,1221</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-367">
+        <name><![CDATA[OE/ST-367 - Burgstaller Höhe]]></name>
+        <description><![CDATA[Burgstaller Höhe, 1218m, 4pt]]></description>
+        <Point>
+          <coordinates>15.5128,47.2294,1218</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-368">
+        <name><![CDATA[OE/ST-368 - Tremmelberg]]></name>
+        <description><![CDATA[Tremmelberg, 1194m, 4pt]]></description>
+        <Point>
+          <coordinates>14.7878,47.2461,1194</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-369">
+        <name><![CDATA[OE/ST-369 - Haderniggkogel]]></name>
+        <description><![CDATA[Haderniggkogel, 1184m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1294,46.6797,1184</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-371">
+        <name><![CDATA[OE/ST-371 - Gschieskogel]]></name>
+        <description><![CDATA[Gschieskogel, 1142m, 4pt]]></description>
+        <Point>
+          <coordinates>15.4117,47.2892,1142</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-372">
+        <name><![CDATA[OE/ST-372 - Katerloch]]></name>
+        <description><![CDATA[Katerloch, 1088m, 4pt]]></description>
+        <Point>
+          <coordinates>15.5439,47.2528,1088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-373">
+        <name><![CDATA[OE/ST-373 - Buchwald]]></name>
+        <description><![CDATA[Buchwald, 1058m, 4pt]]></description>
+        <Point>
+          <coordinates>15.8536,47.4317,1058</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-374">
+        <name><![CDATA[OE/ST-374 - Mitterberg]]></name>
+        <description><![CDATA[Mitterberg, 1046m, 4pt]]></description>
+        <Point>
+          <coordinates>14.2617,47.5417,1046</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-375">
+        <name><![CDATA[OE/ST-375 - Stroßberg]]></name>
+        <description><![CDATA[Stroßberg, 1039m, 4pt]]></description>
+        <Point>
+          <coordinates>15.5742,47.2475,1039</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-376">
+        <name><![CDATA[OE/ST-376 - Raasberg]]></name>
+        <description><![CDATA[Raasberg, 1009m, 4pt]]></description>
+        <Point>
+          <coordinates>15.66,47.2503,1009</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-377">
+        <name><![CDATA[OE/ST-377 - Schartnerkogel]]></name>
+        <description><![CDATA[Schartnerkogel, 931m, 2pt]]></description>
+        <Point>
+          <coordinates>15.3047,47.1981,931</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-378">
+        <name><![CDATA[OE/ST-378 - Emberg]]></name>
+        <description><![CDATA[Emberg, 917m, 2pt]]></description>
+        <Point>
+          <coordinates>15.2572,47.4364,917</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-379">
+        <name><![CDATA[OE/ST-379 - Hochkogel]]></name>
+        <description><![CDATA[Hochkogel, 794m, 2pt]]></description>
+        <Point>
+          <coordinates>15.1372,47.1036,794</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-380">
+        <name><![CDATA[OE/ST-380 - Parmaseggkogel]]></name>
+        <description><![CDATA[Parmaseggkogel, 785m, 2pt]]></description>
+        <Point>
+          <coordinates>15.3139,47.2247,785</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-381">
+        <name><![CDATA[OE/ST-381 - Steinkogel]]></name>
+        <description><![CDATA[Steinkogel, 742m, 2pt]]></description>
+        <Point>
+          <coordinates>15.3589,47.1047,742</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-382">
+        <name><![CDATA[OE/ST-382 - Kreuzberg]]></name>
+        <description><![CDATA[Kreuzberg, 633m, 2pt]]></description>
+        <Point>
+          <coordinates>15.4594,46.71,633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-383">
+        <name><![CDATA[OE/ST-383 - Deichselspitze]]></name>
+        <description><![CDATA[Deichselspitze, 2684m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8217,47.2703,2684</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-384">
+        <name><![CDATA[OE/ST-384 - Großes Gangl]]></name>
+        <description><![CDATA[Großes Gangl, 2602m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7867,47.2781,2602</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-385">
+        <name><![CDATA[OE/ST-385 - Hohes Schareck]]></name>
+        <description><![CDATA[Hohes Schareck, 2575m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8386,47.3233,2575</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-386">
+        <name><![CDATA[OE/ST-386 - Schöneck]]></name>
+        <description><![CDATA[Schöneck, 2540m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8514,47.2569,2540</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-387">
+        <name><![CDATA[OE/ST-387 - Vetternspitzen]]></name>
+        <description><![CDATA[Vetternspitzen, 2524m, 10pt]]></description>
+        <Point>
+          <coordinates>13.6764,47.2742,2524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-388">
+        <name><![CDATA[OE/ST-388 - Jackerstageck]]></name>
+        <description><![CDATA[Jackerstageck, 2409m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9039,47.2992,2409</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-389">
+        <name><![CDATA[OE/ST-389 - Hochmölbing]]></name>
+        <description><![CDATA[Hochmölbing, 2336m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1775,47.6342,2336</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-390">
+        <name><![CDATA[OE/ST-390 - Reichenstein]]></name>
+        <description><![CDATA[Reichenstein, 2251m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5433,47.5492,2251</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-391">
+        <name><![CDATA[OE/ST-391 - Goldachnock]]></name>
+        <description><![CDATA[Goldachnock, 2171m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0574,47.0348,2171</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-392">
+        <name><![CDATA[OE/ST-392 - Wurzleiten]]></name>
+        <description><![CDATA[Wurzleiten, 2066m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3731,47.4442,2066</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-393">
+        <name><![CDATA[OE/ST-393 - Triebenstein]]></name>
+        <description><![CDATA[Triebenstein, 1810m, 8pt]]></description>
+        <Point>
+          <coordinates>14.4869,47.4453,1810</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-394">
+        <name><![CDATA[OE/ST-394 - Lahngangkogel]]></name>
+        <description><![CDATA[Lahngangkogel, 1778m, 6pt]]></description>
+        <Point>
+          <coordinates>14.5083,47.5283,1778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-395">
+        <name><![CDATA[OE/ST-395 - Bärenfeuchtmölbing]]></name>
+        <description><![CDATA[Bärenfeuchtmölbing, 1770m, 6pt]]></description>
+        <Point>
+          <coordinates>14.1261,47.5869,1770</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-396">
+        <name><![CDATA[OE/ST-396 - Geiger]]></name>
+        <description><![CDATA[Geiger, 1723m, 6pt]]></description>
+        <Point>
+          <coordinates>14.9111,47.6267,1723</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-397">
+        <name><![CDATA[OE/ST-397 - Krahstein]]></name>
+        <description><![CDATA[Krahstein, 1571m, 6pt]]></description>
+        <Point>
+          <coordinates>13.9851,47.5731,1571</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-398">
+        <name><![CDATA[OE/ST-398 - Klosterkogel]]></name>
+        <description><![CDATA[Klosterkogel, 1565m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4342,47.5508,1565</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-399">
+        <name><![CDATA[OE/ST-399 - Harting]]></name>
+        <description><![CDATA[Harting, 1539m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3094,47.5964,1539</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-400">
+        <name><![CDATA[OE/ST-400 - Rabenkögel]]></name>
+        <description><![CDATA[Rabenkögel, 1534m, 6pt]]></description>
+        <Point>
+          <coordinates>13.9558,47.5803,1534</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-401">
+        <name><![CDATA[OE/ST-401 - Rotündlberg]]></name>
+        <description><![CDATA[Rotündlberg, 1533m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1608,47.3076,1533</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-402">
+        <name><![CDATA[OE/ST-402 - Stanglkogel]]></name>
+        <description><![CDATA[Stanglkogel, 1526m, 6pt]]></description>
+        <Point>
+          <coordinates>14.7508,47.5647,1526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-403">
+        <name><![CDATA[OE/ST-403 - Brandangerkogel]]></name>
+        <description><![CDATA[Brandangerkogel, 1508m, 6pt]]></description>
+        <Point>
+          <coordinates>14.0728,47.5439,1508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-404">
+        <name><![CDATA[OE/ST-404 - Nojer]]></name>
+        <description><![CDATA[Nojer, 1492m, 6pt]]></description>
+        <Point>
+          <coordinates>14.1053,47.5531,1492</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-405">
+        <name><![CDATA[OE/ST-405 - Rauchschober]]></name>
+        <description><![CDATA[Rauchschober, 1479m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4833,47.6656,1479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-406">
+        <name><![CDATA[OE/ST-406 - Toneck]]></name>
+        <description><![CDATA[Toneck, 1426m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4556,47.5347,1426</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-407">
+        <name><![CDATA[OE/ST-407 - Hirschriedel]]></name>
+        <description><![CDATA[Hirschriedel, 1415m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2547,47.5936,1415</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-408">
+        <name><![CDATA[OE/ST-408 - Geißofen]]></name>
+        <description><![CDATA[Geißofen, 1408m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2333,47.4875,1408</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-409">
+        <name><![CDATA[OE/ST-409 - Dürrnkogel]]></name>
+        <description><![CDATA[Dürrnkogel, 1387m, 4pt]]></description>
+        <Point>
+          <coordinates>14.7786,47.6067,1387</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-410">
+        <name><![CDATA[OE/ST-410 - Rössingkogel]]></name>
+        <description><![CDATA[Rössingkogel, 1346m, 4pt]]></description>
+        <Point>
+          <coordinates>13.7339,47.4264,1346</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-411">
+        <name><![CDATA[OE/ST-411 - Wiedenberg]]></name>
+        <description><![CDATA[Wiedenberg, 1297m, 4pt]]></description>
+        <Point>
+          <coordinates>14.7903,47.6328,1297</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-412">
+        <name><![CDATA[OE/ST-412 - Zinödlberg]]></name>
+        <description><![CDATA[Zinödlberg, 1294m, 4pt]]></description>
+        <Point>
+          <coordinates>14.6172,47.6594,1294</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-413">
+        <name><![CDATA[OE/ST-413 - Sattelberg]]></name>
+        <description><![CDATA[Sattelberg, 1253m, 4pt]]></description>
+        <Point>
+          <coordinates>13.7069,47.4222,1253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-414">
+        <name><![CDATA[OE/ST-414 - Kerzenmandl]]></name>
+        <description><![CDATA[Kerzenmandl, 1246m, 4pt]]></description>
+        <Point>
+          <coordinates>14.7433,47.6901,1246</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-415">
+        <name><![CDATA[OE/ST-415 - Berntalerkogel]]></name>
+        <description><![CDATA[Berntalerkogel, 1177m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2648,47.3123,1177</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-416">
+        <name><![CDATA[OE/ST-416 - Kulmkogel]]></name>
+        <description><![CDATA[Kulmkogel, 1123m, 4pt]]></description>
+        <Point>
+          <coordinates>13.9997,47.5422,1123</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-417">
+        <name><![CDATA[OE/ST-417 - Sittlingerkogel]]></name>
+        <description><![CDATA[Sittlingerkogel, 1110m, 4pt]]></description>
+        <Point>
+          <coordinates>14.6697,47.6631,1110</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-418">
+        <name><![CDATA[OE/ST-418 - Haneggkogel]]></name>
+        <description><![CDATA[Haneggkogel, 1088m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2777,47.2543,1088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-419">
+        <name><![CDATA[OE/ST-419 - Hocheck]]></name>
+        <description><![CDATA[Hocheck, 1072m, 4pt]]></description>
+        <Point>
+          <coordinates>14.6089,47.7211,1072</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-420">
+        <name><![CDATA[OE/ST-420 - Leichenberg]]></name>
+        <description><![CDATA[Leichenberg, 1070m, 4pt]]></description>
+        <Point>
+          <coordinates>14.4275,47.5911,1070</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-421">
+        <name><![CDATA[OE/ST-421 - Brunnkogel]]></name>
+        <description><![CDATA[Brunnkogel, 1104m, 4pt]]></description>
+        <Point>
+          <coordinates>13.7408,47.6806,1104</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-422">
+        <name><![CDATA[OE/ST-422 - Schwarzeck]]></name>
+        <description><![CDATA[Schwarzeck, 1018m, 4pt]]></description>
+        <Point>
+          <coordinates>14.5917,47.7094,1018</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-424">
+        <name><![CDATA[OE/ST-424 - Gipfel östlich vom Lineckberg]]></name>
+        <description><![CDATA[Gipfel östlich vom Lineckberg, 702m, 2pt]]></description>
+        <Point>
+          <coordinates>15.4746,47.1276,702</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-425">
+        <name><![CDATA[OE/ST-425 - Elendberg]]></name>
+        <description><![CDATA[Elendberg, 2672m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7464,47.284,2672</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-426">
+        <name><![CDATA[OE/ST-426 - Schöderkogel]]></name>
+        <description><![CDATA[Schöderkogel, 2500m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0236,47.2559,2500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-427">
+        <name><![CDATA[OE/ST-427 - Gamskarspitze]]></name>
+        <description><![CDATA[Gamskarspitze, 2439m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8762,47.2563,2439</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-428">
+        <name><![CDATA[OE/ST-428 - Kampspitze]]></name>
+        <description><![CDATA[Kampspitze, 2390m, 10pt]]></description>
+        <Point>
+          <coordinates>13.6423,47.2939,2390</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-429">
+        <name><![CDATA[OE/ST-429 - Pletzen]]></name>
+        <description><![CDATA[Pletzen, 2345m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6172,47.3329,2345</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-430">
+        <name><![CDATA[OE/ST-430 - Schartenspitze]]></name>
+        <description><![CDATA[Schartenspitze, 2328m, 10pt]]></description>
+        <Point>
+          <coordinates>14.008,47.5154,2328</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-431">
+        <name><![CDATA[OE/ST-431 - Amachkogel]]></name>
+        <description><![CDATA[Amachkogel, 2312m, 10pt]]></description>
+        <Point>
+          <coordinates>14.5381,47.3528,2312</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-432">
+        <name><![CDATA[OE/ST-432 - Sonntagerhöhe]]></name>
+        <description><![CDATA[Sonntagerhöhe, 2310m, 10pt]]></description>
+        <Point>
+          <coordinates>13.758,47.3473,2310</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-433">
+        <name><![CDATA[OE/ST-433 - Schönwetter]]></name>
+        <description><![CDATA[Schönwetter, 2144m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9984,47.3287,2144</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-434">
+        <name><![CDATA[OE/ST-434 - Speiereck]]></name>
+        <description><![CDATA[Speiereck, 2131m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9667,47.3625,2131</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-435">
+        <name><![CDATA[OE/ST-435 - Angerkogel]]></name>
+        <description><![CDATA[Angerkogel, 2114m, 8pt]]></description>
+        <Point>
+          <coordinates>14.2283,47.6179,2114</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-436">
+        <name><![CDATA[OE/ST-436 - Gaßeneck]]></name>
+        <description><![CDATA[Gaßeneck, 2111m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0483,47.3631,2111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-437">
+        <name><![CDATA[OE/ST-437 - Hochkogel]]></name>
+        <description><![CDATA[Hochkogel, 2091m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9534,47.6951,2091</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-438">
+        <name><![CDATA[OE/ST-438 - Stadelstein]]></name>
+        <description><![CDATA[Stadelstein, 2070m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8569,47.4899,2070</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-439">
+        <name><![CDATA[OE/ST-439 - Ahrnspitz]]></name>
+        <description><![CDATA[Ahrnspitz, 2014m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9915,47.3476,2014</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-440">
+        <name><![CDATA[OE/ST-440 - Kampl]]></name>
+        <description><![CDATA[Kampl, 1990m, 8pt]]></description>
+        <Point>
+          <coordinates>15.2148,47.6058,1990</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-441">
+        <name><![CDATA[OE/ST-441 - Ebneralm]]></name>
+        <description><![CDATA[Ebneralm, 1932m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3581,47.3419,1932</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-442">
+        <name><![CDATA[OE/ST-442 - Reichenstein]]></name>
+        <description><![CDATA[Reichenstein, 1913m, 8pt]]></description>
+        <Point>
+          <coordinates>13.8858,47.6617,1913</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-443">
+        <name><![CDATA[OE/ST-443 - Dritte Grebenzenhöhe]]></name>
+        <description><![CDATA[Dritte Grebenzenhöhe, 1892m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3336,47.0269,1892</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-444">
+        <name><![CDATA[OE/ST-444 - Großer Gsolberg]]></name>
+        <description><![CDATA[Großer Gsolberg, 1881m, 8pt]]></description>
+        <Point>
+          <coordinates>13.855,47.6708,1881</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-445">
+        <name><![CDATA[OE/ST-445 - Haselkogel]]></name>
+        <description><![CDATA[Haselkogel, 1870m, 8pt]]></description>
+        <Point>
+          <coordinates>14.6986,47.5385,1870</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-446">
+        <name><![CDATA[OE/ST-446 - Hochtürnach]]></name>
+        <description><![CDATA[Hochtürnach, 1770m, 6pt]]></description>
+        <Point>
+          <coordinates>15.123,47.6604,1770</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-447">
+        <name><![CDATA[OE/ST-447 - Buchbergkogel]]></name>
+        <description><![CDATA[Buchbergkogel, 1700m, 6pt]]></description>
+        <Point>
+          <coordinates>15.0806,47.5842,1700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-448">
+        <name><![CDATA[OE/ST-448 - Gipfel zwischen Fensteralm und Polsterkogel]]></name>
+        <description><![CDATA[Gipfel zwischen Fensteralm und Polsterkogel, 1673m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1412,47.2782,1673</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-449">
+        <name><![CDATA[OE/ST-449 - Karchauer Eck]]></name>
+        <description><![CDATA[Karchauer Eck, 1658m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2617,47.0921,1658</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-450">
+        <name><![CDATA[OE/ST-450 - Hohe Sinn]]></name>
+        <description><![CDATA[Hohe Sinn, 1638m, 6pt]]></description>
+        <Point>
+          <coordinates>14.9875,47.2315,1638</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-451">
+        <name><![CDATA[OE/ST-451 - Vorderer Zeller Hut]]></name>
+        <description><![CDATA[Vorderer Zeller Hut, 1629m, 6pt]]></description>
+        <Point>
+          <coordinates>15.2342,47.7508,1629</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-452">
+        <name><![CDATA[OE/ST-452 - Blasenkogel]]></name>
+        <description><![CDATA[Blasenkogel, 1602m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3071,47.112,1602</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-453">
+        <name><![CDATA[OE/ST-453 - Kalkberg]]></name>
+        <description><![CDATA[Kalkberg, 1591m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3425,47.0808,1591</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-454">
+        <name><![CDATA[OE/ST-454 - Buchberg]]></name>
+        <description><![CDATA[Buchberg, 1563m, 6pt]]></description>
+        <Point>
+          <coordinates>14.8562,47.6308,1563</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-455">
+        <name><![CDATA[OE/ST-455 - Dürnberg]]></name>
+        <description><![CDATA[Dürnberg, 1546m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3278,47.2108,1546</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-456">
+        <name><![CDATA[OE/ST-456 - Fallenstein]]></name>
+        <description><![CDATA[Fallenstein, 1536m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4067,47.72,1536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-457">
+        <name><![CDATA[OE/ST-457 - Ilgner Hocheck]]></name>
+        <description><![CDATA[Ilgner Hocheck, 1512m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1381,47.544,1512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-458">
+        <name><![CDATA[OE/ST-458 - Tannberg]]></name>
+        <description><![CDATA[Tannberg, 1506m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1192,47.6908,1506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-459">
+        <name><![CDATA[OE/ST-459 - Pendleseck]]></name>
+        <description><![CDATA[Pendleseck, 1489m, 6pt]]></description>
+        <Point>
+          <coordinates>14.078,47.4659,1489</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-460">
+        <name><![CDATA[OE/ST-460 - Roßkogel]]></name>
+        <description><![CDATA[Roßkogel, 1479m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5875,47.6149,1479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-461">
+        <name><![CDATA[OE/ST-461 - Bärenkogel]]></name>
+        <description><![CDATA[Bärenkogel, 1479m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1119,47.306,1479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-462">
+        <name><![CDATA[OE/ST-462 - Reiflingberg]]></name>
+        <description><![CDATA[Reiflingberg, 1474m, 6pt]]></description>
+        <Point>
+          <coordinates>14.6567,47.1211,1474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-463">
+        <name><![CDATA[OE/ST-463 - Moar zu Hof Bühel]]></name>
+        <description><![CDATA[Moar zu Hof Bühel, 1461m, 6pt]]></description>
+        <Point>
+          <coordinates>14.9583,47.2168,1461</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-464">
+        <name><![CDATA[OE/ST-464 - Sulzkogel]]></name>
+        <description><![CDATA[Sulzkogel, 1457m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1375,47.7017,1457</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-465">
+        <name><![CDATA[OE/ST-465 - Wohntalhocheck]]></name>
+        <description><![CDATA[Wohntalhocheck, 1456m, 6pt]]></description>
+        <Point>
+          <coordinates>15.105,47.52,1456</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-466">
+        <name><![CDATA[OE/ST-466 - Sauernkogel]]></name>
+        <description><![CDATA[Sauernkogel, 1451m, 6pt]]></description>
+        <Point>
+          <coordinates>15.6017,47.4129,1451</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-467">
+        <name><![CDATA[OE/ST-467 - Gfäll]]></name>
+        <description><![CDATA[Gfäll, 1450m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1167,47.5083,1450</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-468">
+        <name><![CDATA[OE/ST-468 - Aibelhöhe]]></name>
+        <description><![CDATA[Aibelhöhe, 1449m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5821,47.4133,1449</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-469">
+        <name><![CDATA[OE/ST-469 - Dürreck]]></name>
+        <description><![CDATA[Dürreck, 1399m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2466,47.3613,1399</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-470">
+        <name><![CDATA[OE/ST-470 - Gstatterstein]]></name>
+        <description><![CDATA[Gstatterstein, 1390m, 4pt]]></description>
+        <Point>
+          <coordinates>14.6647,47.5973,1390</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-471">
+        <name><![CDATA[OE/ST-471 - Klammkogel]]></name>
+        <description><![CDATA[Klammkogel, 1358m, 4pt]]></description>
+        <Point>
+          <coordinates>15.0005,47.4738,1358</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-472">
+        <name><![CDATA[OE/ST-472 - Himberger Eck]]></name>
+        <description><![CDATA[Himberger Eck, 1345m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1002,47.4245,1345</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-473">
+        <name><![CDATA[OE/ST-473 - Königskogel]]></name>
+        <description><![CDATA[Königskogel, 1304m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3167,47.7208,1304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-474">
+        <name><![CDATA[OE/ST-474 - Tribein]]></name>
+        <description><![CDATA[Tribein, 1297m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2888,47.7438,1297</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-475">
+        <name><![CDATA[OE/ST-475 - Gratmauer]]></name>
+        <description><![CDATA[Gratmauer, 1296m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1842,47.7033,1296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-476">
+        <name><![CDATA[OE/ST-476 - Falkenberg]]></name>
+        <description><![CDATA[Falkenberg, 1158m, 4pt]]></description>
+        <Point>
+          <coordinates>14.6024,47.2027,1158</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-477">
+        <name><![CDATA[OE/ST-477 - Heiggerkogel]]></name>
+        <description><![CDATA[Heiggerkogel, 1098m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2389,47.1594,1098</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-478">
+        <name><![CDATA[OE/ST-478 - Falkenkogel]]></name>
+        <description><![CDATA[Falkenkogel, 1035m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1625,47.7058,1035</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-479">
+        <name><![CDATA[OE/ST-479 - Traidersberg]]></name>
+        <description><![CDATA[Traidersberg, 987m, 2pt]]></description>
+        <Point>
+          <coordinates>15.0158,47.379,987</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-480">
+        <name><![CDATA[OE/ST-480 - Reiterer Kogel]]></name>
+        <description><![CDATA[Reiterer Kogel, 953m, 2pt]]></description>
+        <Point>
+          <coordinates>14.9455,47.3957,953</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-481">
+        <name><![CDATA[OE/ST-481 - Mittagkogel]]></name>
+        <description><![CDATA[Mittagkogel, 938m, 2pt]]></description>
+        <Point>
+          <coordinates>14.9253,47.2879,938</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-483">
+        <name><![CDATA[OE/ST-483 - Pfaffenkogel]]></name>
+        <description><![CDATA[Pfaffenkogel, 734m, 2pt]]></description>
+        <Point>
+          <coordinates>15.31,47.1658,734</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-484">
+        <name><![CDATA[OE/ST-484 - Eggenberg]]></name>
+        <description><![CDATA[Eggenberg, 707m, 2pt]]></description>
+        <Point>
+          <coordinates>15.3383,47.1558,707</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-485">
+        <name><![CDATA[OE/ST-485 - Gjoadeck]]></name>
+        <description><![CDATA[Gjoadeck, 2525m, 10pt]]></description>
+        <Point>
+          <coordinates>13.97,47.2825,2525</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-486">
+        <name><![CDATA[OE/ST-486 - Seekarspitze]]></name>
+        <description><![CDATA[Seekarspitze, 2500m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9092,47.2767,2500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-487">
+        <name><![CDATA[OE/ST-487 - Säuleck]]></name>
+        <description><![CDATA[Säuleck, 2359m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8742,47.3392,2359</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-488">
+        <name><![CDATA[OE/ST-488 - Sonntagkogel]]></name>
+        <description><![CDATA[Sonntagkogel, 2343m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6026,47.3487,2343</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-490">
+        <name><![CDATA[OE/ST-490 - Hochwart]]></name>
+        <description><![CDATA[Hochwart, 2301m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1308,47.3117,2301</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-491">
+        <name><![CDATA[OE/ST-491 - Kettentalkogel]]></name>
+        <description><![CDATA[Kettentalkogel, 2152m, 8pt]]></description>
+        <Point>
+          <coordinates>14.5958,47.3783,2152</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-492">
+        <name><![CDATA[OE/ST-492 - Speikleitenberg]]></name>
+        <description><![CDATA[Speikleitenberg, 2124m, 8pt]]></description>
+        <Point>
+          <coordinates>14.5817,47.365,2124</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-493">
+        <name><![CDATA[OE/ST-493 - Pleschnitzzinken]]></name>
+        <description><![CDATA[Pleschnitzzinken, 2112m, 8pt]]></description>
+        <Point>
+          <coordinates>13.8567,47.3733,2112</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-494">
+        <name><![CDATA[OE/ST-494 - Stummerkesselspitze]]></name>
+        <description><![CDATA[Stummerkesselspitze, 2088m, 8pt]]></description>
+        <Point>
+          <coordinates>13.8683,47.32,2088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-495">
+        <name><![CDATA[OE/ST-495 - Speikbichl (Schwaigerhöhe)]]></name>
+        <description><![CDATA[Speikbichl (Schwaigerhöhe), 1878m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8167,47.3575,1878</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-496">
+        <name><![CDATA[OE/ST-496 - Lukaskogel]]></name>
+        <description><![CDATA[Lukaskogel, 1118m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1233,47.1808,1118</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-497">
+        <name><![CDATA[OE/ST-497 - Eselstein]]></name>
+        <description><![CDATA[Eselstein, 2556m, 10pt]]></description>
+        <Point>
+          <coordinates>13.6755,47.4541,2556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-498">
+        <name><![CDATA[OE/ST-498 - Gamsleiteck]]></name>
+        <description><![CDATA[Gamsleiteck, 2489m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9212,47.2386,2489</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-499">
+        <name><![CDATA[OE/ST-499 - Mittereck]]></name>
+        <description><![CDATA[Mittereck, 2469m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9727,47.2966,2469</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-500">
+        <name><![CDATA[OE/ST-500 - Hemmerfeldeck]]></name>
+        <description><![CDATA[Hemmerfeldeck, 2443m, 10pt]]></description>
+        <Point>
+          <coordinates>13.9359,47.2247,2443</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-501">
+        <name><![CDATA[OE/ST-501 - Dreistecken]]></name>
+        <description><![CDATA[Dreistecken, 2382m, 10pt]]></description>
+        <Point>
+          <coordinates>14.3957,47.458,2382</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-502">
+        <name><![CDATA[OE/ST-502 - Feuertalberg]]></name>
+        <description><![CDATA[Feuertalberg, 2376m, 10pt]]></description>
+        <Point>
+          <coordinates>14.0221,47.6858,2376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-503">
+        <name><![CDATA[OE/ST-503 - Hochweberspitze]]></name>
+        <description><![CDATA[Hochweberspitze, 2375m, 10pt]]></description>
+        <Point>
+          <coordinates>14.2004,47.3089,2375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-504">
+        <name><![CDATA[OE/ST-504 - Melleck]]></name>
+        <description><![CDATA[Melleck, 2365m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1282,47.2823,2365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-505">
+        <name><![CDATA[OE/ST-505 - Narrenspitze]]></name>
+        <description><![CDATA[Narrenspitze, 2336m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1002,47.2552,2336</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-506">
+        <name><![CDATA[OE/ST-506 - Grosser Oedstein]]></name>
+        <description><![CDATA[Grosser Oedstein, 2335m, 10pt]]></description>
+        <Point>
+          <coordinates>14.6126,47.5539,2335</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-507">
+        <name><![CDATA[OE/ST-507 - Grosshansl]]></name>
+        <description><![CDATA[Grosshansl, 2315m, 10pt]]></description>
+        <Point>
+          <coordinates>14.265,47.3187,2315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-508">
+        <name><![CDATA[OE/ST-508 - Stangeneck]]></name>
+        <description><![CDATA[Stangeneck, 2291m, 10pt]]></description>
+        <Point>
+          <coordinates>14.1854,47.2679,2291</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-509">
+        <name><![CDATA[OE/ST-509 - Kleiner Gnasen]]></name>
+        <description><![CDATA[Kleiner Gnasen, 2244m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8568,47.3016,2244</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-510">
+        <name><![CDATA[OE/ST-510 - Lugauer]]></name>
+        <description><![CDATA[Lugauer, 2217m, 10pt]]></description>
+        <Point>
+          <coordinates>14.7224,47.5532,2217</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-511">
+        <name><![CDATA[OE/ST-511 - Grosser Miesberg]]></name>
+        <description><![CDATA[Grosser Miesberg, 2202m, 10pt]]></description>
+        <Point>
+          <coordinates>13.7317,47.46,2202</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-512">
+        <name><![CDATA[OE/ST-512 - Weisse Wand]]></name>
+        <description><![CDATA[Weisse Wand, 2198m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0058,47.6404,2198</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-513">
+        <name><![CDATA[OE/ST-513 - Riedlerzinken]]></name>
+        <description><![CDATA[Riedlerzinken, 2175m, 8pt]]></description>
+        <Point>
+          <coordinates>14.2021,47.3462,2175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-514">
+        <name><![CDATA[OE/ST-514 - Ringkamp]]></name>
+        <description><![CDATA[Ringkamp, 2153m, 8pt]]></description>
+        <Point>
+          <coordinates>15.178,47.6316,2153</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-515">
+        <name><![CDATA[OE/ST-515 - Hochgroessen]]></name>
+        <description><![CDATA[Hochgroessen, 2120m, 8pt]]></description>
+        <Point>
+          <coordinates>14.2565,47.4605,2120</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-516">
+        <name><![CDATA[OE/ST-516 - Steinkarhöhe]]></name>
+        <description><![CDATA[Steinkarhöhe, 2105m, 8pt]]></description>
+        <Point>
+          <coordinates>13.5994,47.3241,2105</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-517">
+        <name><![CDATA[OE/ST-517 - Dornkarspitz]]></name>
+        <description><![CDATA[Dornkarspitz, 2050m, 8pt]]></description>
+        <Point>
+          <coordinates>14.0767,47.4008,2050</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-518">
+        <name><![CDATA[OE/ST-518 - Wirtsspitz]]></name>
+        <description><![CDATA[Wirtsspitz, 2032m, 8pt]]></description>
+        <Point>
+          <coordinates>14.3373,47.4464,2032</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-519">
+        <name><![CDATA[OE/ST-519 - Grosser Griessstein]]></name>
+        <description><![CDATA[Grosser Griessstein, 2023m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0267,47.6175,2023</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-520">
+        <name><![CDATA[OE/ST-520 - Kaltmauer]]></name>
+        <description><![CDATA[Kaltmauer, 1929m, 8pt]]></description>
+        <Point>
+          <coordinates>14.8742,47.5992,1929</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-521">
+        <name><![CDATA[OE/ST-521 - Hohe Zoelz]]></name>
+        <description><![CDATA[Hohe Zoelz, 1897m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9292,47.4833,1897</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-522">
+        <name><![CDATA[OE/ST-522 - Triebenfeldkogel]]></name>
+        <description><![CDATA[Triebenfeldkogel, 1884m, 8pt]]></description>
+        <Point>
+          <coordinates>14.5742,47.4257,1884</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-523">
+        <name><![CDATA[OE/ST-523 - Neustein]]></name>
+        <description><![CDATA[Neustein, 1870m, 8pt]]></description>
+        <Point>
+          <coordinates>13.9372,47.6695,1870</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-524">
+        <name><![CDATA[OE/ST-524 - Sonnstein]]></name>
+        <description><![CDATA[Sonnstein, 1847m, 8pt]]></description>
+        <Point>
+          <coordinates>14.9454,47.5685,1847</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-525">
+        <name><![CDATA[OE/ST-525 - Frauenmauer]]></name>
+        <description><![CDATA[Frauenmauer, 1827m, 8pt]]></description>
+        <Point>
+          <coordinates>14.974,47.5637,1827</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-526">
+        <name><![CDATA[OE/ST-526 - Fadenkamp]]></name>
+        <description><![CDATA[Fadenkamp, 1804m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0868,47.7092,1804</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-527">
+        <name><![CDATA[OE/ST-527 - Donnerwand]]></name>
+        <description><![CDATA[Donnerwand, 1799m, 6pt]]></description>
+        <Point>
+          <coordinates>15.5708,47.7228,1799</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-528">
+        <name><![CDATA[OE/ST-528 - Vorderer Raucher]]></name>
+        <description><![CDATA[Vorderer Raucher, 1786m, 6pt]]></description>
+        <Point>
+          <coordinates>13.7778,47.6983,1786</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-529">
+        <name><![CDATA[OE/ST-529 - Almmauer]]></name>
+        <description><![CDATA[Almmauer, 1764m, 6pt]]></description>
+        <Point>
+          <coordinates>14.7167,47.6249,1764</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-530">
+        <name><![CDATA[OE/ST-530 - Schoenberg]]></name>
+        <description><![CDATA[Schoenberg, 1734m, 6pt]]></description>
+        <Point>
+          <coordinates>15.0705,47.6311,1734</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-531">
+        <name><![CDATA[OE/ST-531 - Durchat]]></name>
+        <description><![CDATA[Durchat, 1731m, 6pt]]></description>
+        <Point>
+          <coordinates>13.5975,47.44,1731</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-532">
+        <name><![CDATA[OE/ST-532 - Bauernalpl]]></name>
+        <description><![CDATA[Bauernalpl, 1723m, 6pt]]></description>
+        <Point>
+          <coordinates>14.3801,47.1988,1723</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-533">
+        <name><![CDATA[OE/ST-533 - Laerchkogel]]></name>
+        <description><![CDATA[Laerchkogel, 1666m, 6pt]]></description>
+        <Point>
+          <coordinates>14.4571,47.4615,1666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-534">
+        <name><![CDATA[OE/ST-534 - Magdwieseck]]></name>
+        <description><![CDATA[Magdwieseck, 1644m, 6pt]]></description>
+        <Point>
+          <coordinates>14.7947,47.4486,1644</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-535">
+        <name><![CDATA[OE/ST-535 - Tierkogel]]></name>
+        <description><![CDATA[Tierkogel, 1621m, 6pt]]></description>
+        <Point>
+          <coordinates>14.52,47.4317,1621</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-536">
+        <name><![CDATA[OE/ST-536 - Stangl]]></name>
+        <description><![CDATA[Stangl, 1592m, 6pt]]></description>
+        <Point>
+          <coordinates>14.8542,47.6904,1592</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-537">
+        <name><![CDATA[OE/ST-537 - Kleiner Proles]]></name>
+        <description><![CDATA[Kleiner Proles, 1579m, 6pt]]></description>
+        <Point>
+          <coordinates>15.4458,47.7234,1579</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-538">
+        <name><![CDATA[OE/ST-538 - Gehart]]></name>
+        <description><![CDATA[Gehart, 1567m, 6pt]]></description>
+        <Point>
+          <coordinates>15.0309,47.6405,1567</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-539">
+        <name><![CDATA[OE/ST-539 - Mieskogel]]></name>
+        <description><![CDATA[Mieskogel, 1554m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1792,47.6592,1554</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-540">
+        <name><![CDATA[OE/ST-540 - Ilgner Alpl]]></name>
+        <description><![CDATA[Ilgner Alpl, 1506m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1867,47.5525,1506</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-541">
+        <name><![CDATA[OE/ST-541 - Wilder Jaeger]]></name>
+        <description><![CDATA[Wilder Jaeger, 1504m, 6pt]]></description>
+        <Point>
+          <coordinates>14.9717,47.6388,1504</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-542">
+        <name><![CDATA[OE/ST-542 - Kleiner Looskogel]]></name>
+        <description><![CDATA[Kleiner Looskogel, 1450m, 6pt]]></description>
+        <Point>
+          <coordinates>14.6223,47.6447,1450</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-543">
+        <name><![CDATA[OE/ST-543 - Hocheck]]></name>
+        <description><![CDATA[Hocheck, 1441m, 6pt]]></description>
+        <Point>
+          <coordinates>14.7892,47.57,1441</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-544">
+        <name><![CDATA[OE/ST-544 - Buckeck]]></name>
+        <description><![CDATA[Buckeck, 1440m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1755,47.7338,1440</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-545">
+        <name><![CDATA[OE/ST-545 - Kaemmersberg]]></name>
+        <description><![CDATA[Kaemmersberg, 1435m, 6pt]]></description>
+        <Point>
+          <coordinates>14.2567,47.1817,1435</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-546">
+        <name><![CDATA[OE/ST-546 - Haindlmauer]]></name>
+        <description><![CDATA[Haindlmauer, 1435m, 6pt]]></description>
+        <Point>
+          <coordinates>14.5479,47.5744,1435</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-547">
+        <name><![CDATA[OE/ST-547 - Grosskogel]]></name>
+        <description><![CDATA[Grosskogel, 1410m, 6pt]]></description>
+        <Point>
+          <coordinates>14.8266,47.64,1410</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-548">
+        <name><![CDATA[OE/ST-548 - Salberg]]></name>
+        <description><![CDATA[Salberg, 1398m, 4pt]]></description>
+        <Point>
+          <coordinates>14.2856,47.5737,1398</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-549">
+        <name><![CDATA[OE/ST-549 - Hohe Radling]]></name>
+        <description><![CDATA[Hohe Radling, 1398m, 4pt]]></description>
+        <Point>
+          <coordinates>13.8125,47.5939,1398</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-550">
+        <name><![CDATA[OE/ST-550 - Bruckstein]]></name>
+        <description><![CDATA[Bruckstein, 1388m, 4pt]]></description>
+        <Point>
+          <coordinates>14.5951,47.5906,1388</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-551">
+        <name><![CDATA[OE/ST-551 - Augstein]]></name>
+        <description><![CDATA[Augstein, 1370m, 4pt]]></description>
+        <Point>
+          <coordinates>14.5468,47.6034,1370</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-552">
+        <name><![CDATA[OE/ST-552 - Schwarzkogel]]></name>
+        <description><![CDATA[Schwarzkogel, 1365m, 4pt]]></description>
+        <Point>
+          <coordinates>15.4017,47.785,1365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-553">
+        <name><![CDATA[OE/ST-553 - Neunkögel]]></name>
+        <description><![CDATA[Neunkögel, 1363m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3542,47.705,1363</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-554">
+        <name><![CDATA[OE/ST-554 - Spielmaeuer]]></name>
+        <description><![CDATA[Spielmaeuer, 1360m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3156,47.6901,1360</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-555">
+        <name><![CDATA[OE/ST-555 - Zwicker]]></name>
+        <description><![CDATA[Zwicker, 1353m, 4pt]]></description>
+        <Point>
+          <coordinates>13.9329,47.6265,1353</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-556">
+        <name><![CDATA[OE/ST-556 - Baierhubermauer]]></name>
+        <description><![CDATA[Baierhubermauer, 1335m, 4pt]]></description>
+        <Point>
+          <coordinates>14.6992,47.4441,1335</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-557">
+        <name><![CDATA[OE/ST-557 - Gloeckel]]></name>
+        <description><![CDATA[Gloeckel, 1319m, 4pt]]></description>
+        <Point>
+          <coordinates>14.5509,47.6921,1319</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-558">
+        <name><![CDATA[OE/ST-558 - Gutenbrand]]></name>
+        <description><![CDATA[Gutenbrand, 1313m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1744,47.683,1313</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-559">
+        <name><![CDATA[OE/ST-559 - Schmiereck]]></name>
+        <description><![CDATA[Schmiereck, 1308m, 4pt]]></description>
+        <Point>
+          <coordinates>15.5569,47.4319,1308</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-560">
+        <name><![CDATA[OE/ST-560 - Scheiblingpalfen]]></name>
+        <description><![CDATA[Scheiblingpalfen, 1304m, 4pt]]></description>
+        <Point>
+          <coordinates>13.5798,47.3902,1304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-561">
+        <name><![CDATA[OE/ST-561 - Saeusenstein]]></name>
+        <description><![CDATA[Saeusenstein, 1282m, 4pt]]></description>
+        <Point>
+          <coordinates>14.9966,47.6538,1282</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-562">
+        <name><![CDATA[OE/ST-562 - Pretallerkogel]]></name>
+        <description><![CDATA[Pretallerkogel, 1258m, 4pt]]></description>
+        <Point>
+          <coordinates>14.7164,47.4362,1258</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-563">
+        <name><![CDATA[OE/ST-563 - Ofen]]></name>
+        <description><![CDATA[Ofen, 1256m, 4pt]]></description>
+        <Point>
+          <coordinates>14.2213,47.2144,1256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-564">
+        <name><![CDATA[OE/ST-564 - Eibenkogel]]></name>
+        <description><![CDATA[Eibenkogel, 1250m, 4pt]]></description>
+        <Point>
+          <coordinates>14.8024,47.6089,1250</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-565">
+        <name><![CDATA[OE/ST-565 - Kleine Peilwand]]></name>
+        <description><![CDATA[Kleine Peilwand, 1248m, 4pt]]></description>
+        <Point>
+          <coordinates>15.153,47.7369,1248</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-566">
+        <name><![CDATA[OE/ST-566 - Himbeerstein]]></name>
+        <description><![CDATA[Himbeerstein, 1222m, 4pt]]></description>
+        <Point>
+          <coordinates>14.5541,47.5856,1222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-567">
+        <name><![CDATA[OE/ST-567 - Laerchkogel]]></name>
+        <description><![CDATA[Laerchkogel, 1222m, 4pt]]></description>
+        <Point>
+          <coordinates>15.225,47.7203,1222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-568">
+        <name><![CDATA[OE/ST-568 - Schindelkogel]]></name>
+        <description><![CDATA[Schindelkogel, 1219m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3423,47.8221,1219</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-569">
+        <name><![CDATA[OE/ST-569 - Schuetterkogel]]></name>
+        <description><![CDATA[Schuetterkogel, 1215m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3159,47.668,1215</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-570">
+        <name><![CDATA[OE/ST-570 - Sonneck]]></name>
+        <description><![CDATA[Sonneck, 1205m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3283,47.8042,1205</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-571">
+        <name><![CDATA[OE/ST-571 - Akogel]]></name>
+        <description><![CDATA[Akogel, 1190m, 4pt]]></description>
+        <Point>
+          <coordinates>14.8053,47.6768,1190</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-572">
+        <name><![CDATA[OE/ST-572 - Grosser Sulzkogel]]></name>
+        <description><![CDATA[Grosser Sulzkogel, 1185m, 4pt]]></description>
+        <Point>
+          <coordinates>14.7609,47.705,1185</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-573">
+        <name><![CDATA[OE/ST-573 - Rasingberg]]></name>
+        <description><![CDATA[Rasingberg, 1161m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2806,47.777,1161</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-574">
+        <name><![CDATA[OE/ST-574 - Grosser Kainz]]></name>
+        <description><![CDATA[Grosser Kainz, 1131m, 4pt]]></description>
+        <Point>
+          <coordinates>15.265,47.7875,1131</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-575">
+        <name><![CDATA[OE/ST-575 - Sattlerkogel]]></name>
+        <description><![CDATA[Sattlerkogel, 1121m, 4pt]]></description>
+        <Point>
+          <coordinates>15.2417,47.3145,1121</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-576">
+        <name><![CDATA[OE/ST-576 - Hochtratten]]></name>
+        <description><![CDATA[Hochtratten, 1118m, 4pt]]></description>
+        <Point>
+          <coordinates>15.1217,47.3458,1118</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-577">
+        <name><![CDATA[OE/ST-577 - Jaegerberg]]></name>
+        <description><![CDATA[Jaegerberg, 1014m, 4pt]]></description>
+        <Point>
+          <coordinates>14.9808,47.6842,1014</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-578">
+        <name><![CDATA[OE/ST-578 - Haidach]]></name>
+        <description><![CDATA[Haidach, 1096m, 4pt]]></description>
+        <Point>
+          <coordinates>14.65,47.6975,1096</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-579">
+        <name><![CDATA[OE/ST-579 - Hoher Roecker]]></name>
+        <description><![CDATA[Hoher Roecker, 1094m, 4pt]]></description>
+        <Point>
+          <coordinates>14.9825,47.7225,1094</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-580">
+        <name><![CDATA[OE/ST-580 - Hanserkogel]]></name>
+        <description><![CDATA[Hanserkogel, 1085m, 4pt]]></description>
+        <Point>
+          <coordinates>14.9418,47.6812,1085</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-581">
+        <name><![CDATA[OE/ST-581 - Braunhuberkogel]]></name>
+        <description><![CDATA[Braunhuberkogel, 1073m, 4pt]]></description>
+        <Point>
+          <coordinates>15.4012,47.3949,1073</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-582">
+        <name><![CDATA[OE/ST-582 - Mitterkogel]]></name>
+        <description><![CDATA[Mitterkogel, 1047m, 4pt]]></description>
+        <Point>
+          <coordinates>14.8472,47.6132,1047</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-583">
+        <name><![CDATA[OE/ST-583 - Sagkogel]]></name>
+        <description><![CDATA[Sagkogel, 1030m, 4pt]]></description>
+        <Point>
+          <coordinates>14.9446,47.6481,1030</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-584">
+        <name><![CDATA[OE/ST-584 - Mitterberg]]></name>
+        <description><![CDATA[Mitterberg, 978m, 2pt]]></description>
+        <Point>
+          <coordinates>14.9959,47.6659,978</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-585">
+        <name><![CDATA[OE/ST-585 - Steinwand]]></name>
+        <description><![CDATA[Steinwand, 950m, 2pt]]></description>
+        <Point>
+          <coordinates>14.7472,47.6651,950</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-586">
+        <name><![CDATA[OE/ST-586 - Buchegg]]></name>
+        <description><![CDATA[Buchegg, 942m, 2pt]]></description>
+        <Point>
+          <coordinates>14.7311,47.596,942</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-587">
+        <name><![CDATA[OE/ST-587 - Schoberkogel]]></name>
+        <description><![CDATA[Schoberkogel, 901m, 2pt]]></description>
+        <Point>
+          <coordinates>14.5994,47.6969,901</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-588">
+        <name><![CDATA[OE/ST-588 - Kulm]]></name>
+        <description><![CDATA[Kulm, 887m, 2pt]]></description>
+        <Point>
+          <coordinates>15.0177,47.4084,887</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-589">
+        <name><![CDATA[OE/ST-589 - Lehenberg]]></name>
+        <description><![CDATA[Lehenberg, 871m, 2pt]]></description>
+        <Point>
+          <coordinates>14.7183,47.6558,871</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-590">
+        <name><![CDATA[OE/ST-590 - Wiesberg]]></name>
+        <description><![CDATA[Wiesberg, 811m, 2pt]]></description>
+        <Point>
+          <coordinates>14.66,47.7232,811</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-591">
+        <name><![CDATA[OE/ST-591 - Kleines Schareck]]></name>
+        <description><![CDATA[Kleines Schareck, 2479m, 10pt]]></description>
+        <Point>
+          <coordinates>13.8402,47.3143,2479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-592">
+        <name><![CDATA[OE/ST-592 - Kleiner Grießstein]]></name>
+        <description><![CDATA[Kleiner Grießstein, 2175m, 8pt]]></description>
+        <Point>
+          <coordinates>14.5447,47.384,2175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-593">
+        <name><![CDATA[OE/ST-593 - Sumpereck]]></name>
+        <description><![CDATA[Sumpereck, 1913m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1311,47.6109,1913</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-594">
+        <name><![CDATA[OE/ST-594 - Wörschacher Reidling]]></name>
+        <description><![CDATA[Wörschacher Reidling, 1909m, 8pt]]></description>
+        <Point>
+          <coordinates>14.1476,47.5983,1909</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-595">
+        <name><![CDATA[OE/ST-595 - Gschwendt]]></name>
+        <description><![CDATA[Gschwendt, 1000m, 4pt]]></description>
+        <Point>
+          <coordinates>15.3456,47.2852,1000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-596">
+        <name><![CDATA[OE/ST-596 - Großer Scheiblingkogel]]></name>
+        <description><![CDATA[Großer Scheiblingkogel, 2022m, 8pt]]></description>
+        <Point>
+          <coordinates>13.8212,47.7141,2022</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-597">
+        <name><![CDATA[OE/ST-597 - Lenzmoarkogel]]></name>
+        <description><![CDATA[Lenzmoarkogel, 1991m, 8pt]]></description>
+        <Point>
+          <coordinates>15.0379,47.2316,1991</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-598">
+        <name><![CDATA[OE/ST-598 - Gipfel östlich vom Kletschachkogel]]></name>
+        <description><![CDATA[Gipfel östlich vom Kletschachkogel, 1468m, 6pt]]></description>
+        <Point>
+          <coordinates>15.1466,47.4465,1468</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-599">
+        <name><![CDATA[OE/ST-599 - Krienzerkogel]]></name>
+        <description><![CDATA[Krienzerkogel, 914m, 2pt]]></description>
+        <Point>
+          <coordinates>15.3826,47.21807,914</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-600">
+        <name><![CDATA[OE/ST-600 - Lammkogel]]></name>
+        <description><![CDATA[Lammkogel, 1619m, 6pt]]></description>
+        <Point>
+          <coordinates>15.12114,47.24991,1619</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-601">
+        <name><![CDATA[OE/ST-601 - Brachkogel]]></name>
+        <description><![CDATA[Brachkogel, 1524m, 6pt]]></description>
+        <Point>
+          <coordinates>15.38555,47.68975,1524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-602">
+        <name><![CDATA[OE/ST-602 - Peterbauerkogel]]></name>
+        <description><![CDATA[Peterbauerkogel, 1357m, 4pt]]></description>
+        <Point>
+          <coordinates>15.82401,47.61038,1357</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="OE/ST-603">
+        <name><![CDATA[OE/ST-603 - Pommesberg]]></name>
+        <description><![CDATA[Pommesberg, 1287m, 4pt]]></description>
+        <Point>
+          <coordinates>15.60768,47.31324,1287</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>

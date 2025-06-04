@@ -4,42 +4,42 @@
     <Style id="placemark-green">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-darkgreen.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/summit-placemark-1pt.png</href>
       </Icon>
     </IconStyle>
   </Style>
 <Style id="placemark-lime">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-lightgreen.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/summit-placemark-2pt.png</href>
       </Icon>
     </IconStyle>
   </Style>
     <Style id="placemark-brown">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-olive.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/summit-placemark-4pt.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-orange">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-darkyellow.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/summit-placemark-6pt.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-deeporange">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-orange.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/summit-placemark-8pt.png</href>
       </Icon>
     </IconStyle>
   </Style>
   <Style id="placemark-red">
     <IconStyle>
       <Icon>
-        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/placemark-red.png</href>
+        <href>https://raw.githubusercontent.com/cdaller/sota_summits_to_map/main/icons/summit-placemark-10pt.png</href>
       </Icon>
     </IconStyle>
   </Style>
