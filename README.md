@@ -1,5 +1,7 @@
 # SOTA Summits for OrganicMaps
 
+As the icons are now integrated into sotl.as itself, this code is not needed anymore!
+
 Download kml files from [Sotl.as](https://sotl.as) for associations or regions and adds a color style, depending on the summit points. The kml file of sotl.as has no style information and therefore most mapping apps will show all points in the same color. This script will add color depending on the points of the summit.
 
 The resulting kml file can then be imported as bookmarks into e.g. [OrganicMaps](https://organicmaps.app/).
